@@ -1,0 +1,8 @@
+Node	Adjacent State	List L1	List
+    			
+A	D-6, E-7, C-15	D-6, E-7, C-15	D-6, E-7, C-15
+D	I-8, F-10	I-8, F-10	I-8, F-10, E-7, C-15
+I	B-0, G-5	B-0, G-5	B-0, G-5, F-10, E-7, C-15
+B			
+
+Conclusion: A => D => I => B
